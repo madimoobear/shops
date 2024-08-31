@@ -1,5 +1,5 @@
 {
-    "red": [
+    "green": [
         "Astral Blade Coin",
         "Battledome Coin",
         "Black and Yellow Collectable Scarab",
@@ -52,4 +52,5 @@
         "Uncommon Blue Collectable Scarab",
         "Vacumatic 9000 Coin",
         "Zoomik Coin"
-    ],
+    ]
+}
