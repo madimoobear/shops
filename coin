@@ -52,5 +52,10 @@
         "Uncommon Blue Collectable Scarab",
         "Vacumatic 9000 Coin",
         "Zoomik Coin"
-    ]
+    ],
+
+    "yellow": [
+        "Bronze Mystery Island Coin",
+        "Speckled Collectable Scarab"
+]
 }
